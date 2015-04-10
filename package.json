@@ -1,0 +1,14 @@
+{
+  "name": "test_elasticSearch",
+  "version": "0.0.0",
+  "homepage": "https://github.com/larsvoigt/elasticSearch",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/larsvoigt/elasticSearch.git"
+  },
+  "dependencies": {
+    "elasticsearch": "latest",
+    "elastic.js": "latest",
+    "cheerio" : "latest"
+  }
+}
