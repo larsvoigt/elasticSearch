@@ -1,0 +1,6 @@
+.DS_Store
+.divshot-cache
+node_modules
+build
+local_test_data
+.idea
